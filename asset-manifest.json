@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://musa-najame.github.io/csb-nb01g/static/js/main.f9dfe592.chunk.js",
+    "main.js.map": "https://musa-najame.github.io/csb-nb01g/static/js/main.f9dfe592.chunk.js.map",
+    "runtime-main.js": "https://musa-najame.github.io/csb-nb01g/static/js/runtime-main.7e75d60d.js",
+    "runtime-main.js.map": "https://musa-najame.github.io/csb-nb01g/static/js/runtime-main.7e75d60d.js.map",
+    "static/js/2.72a5213d.chunk.js": "https://musa-najame.github.io/csb-nb01g/static/js/2.72a5213d.chunk.js",
+    "static/js/2.72a5213d.chunk.js.map": "https://musa-najame.github.io/csb-nb01g/static/js/2.72a5213d.chunk.js.map",
+    "index.html": "https://musa-najame.github.io/csb-nb01g/index.html",
+    "static/js/2.72a5213d.chunk.js.LICENSE.txt": "https://musa-najame.github.io/csb-nb01g/static/js/2.72a5213d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e75d60d.js",
+    "static/js/2.72a5213d.chunk.js",
+    "static/js/main.f9dfe592.chunk.js"
+  ]
+}
